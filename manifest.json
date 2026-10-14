@@ -1,0 +1,16 @@
+{
+  "spec": 3,
+  "type": "plugin",
+  "id": "aquavvx.keywordnotifications",
+  "version": "1.0.0",
+  "display": {
+    "name": "Keyword Notifications",
+    "description": "Show an in-app alert when a loaded Discord message contains a watched keyword.",
+    "authors": [{ "name": "aquavvx" }]
+  },
+  "main": "index.js",
+  "extras": {
+    "source": "https://github.com/aquavvx/KeywordNotifications",
+    "bunny": {}
+  }
+}
